@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=OnlineStudent
+comment0.text=------------P02----------------\r\n\ CLASS\:\ OnlineStudent\ (OnlineStudent.java)\r\n\ GROUP\ 42\r\n\ AUTHOR\ 1\:\ Caleb\ Ewer,\ cewer,\ cewer@asu.edu\r\n\ AUTHOR\ 2\:\ Lorenzo\ Stewart,\ lkstewa2,\ lkstewa2@asu.edu\r\n\ AUTHOR\ 3\:\ Samuel\ Ketcham,\ scketch1,\ scktech1@asu.edu\r\n\ AUTHOR\ 4\:\ Miranda\ Coston,\ mcoston,\ mcoston@asu.edu\r\n
+comment1.params=pId\ pFirstName\ pLastName
+comment1.target=OnlineStudent(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ getTechFee()
+comment3.params=pTechFee
+comment3.target=void\ setTechFee(boolean)
+comment4.params=
+comment4.target=void\ calcTuition()
+numComments=5

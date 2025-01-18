@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=InsertionSort
+comment1.params=pList\ pOrder
+comment1.target=void\ insertionSort(java.util.ArrayList,\ int)
+comment1.text=\r\n\ Sorts\ pList\ into\ ascending\ (pOrder\ \=\ SORT_ASCENDING)\ or\ descending\ (pOrder\ \=\r\n\ SORT_DESCENDING)\ order\ using\ the\ insertion\ sort\ algorithm.\r\n
+comment2.params=pList\ pIndex\ pOrder
+comment2.target=boolean\ keepMoving(java.util.ArrayList,\ int,\ int)
+comment2.text=\r\n\ Returns\ true\ if\ we\ need\ to\ continue\ moving\ the\ element\ at\ pIndex\ until\ it\ reaches\ its\r\n\ proper\ location.\ If\ pIndex\ is\ less\ than\ 1,\ then\ the\ element\ that\ we\ were\ moving\ has\ been\r\n\ moved\ to\ index\ 0\ of\ list\ so\ we\ are\ done.\ Otherwise,\ we\ compare\ the\ element\ at\ pIndex\ to\r\n\ the\ element\ that\ precedes\ it\ in\ the\ list\ --\ at\ pIndex\ -\ 1\ --\ and\ if\ they\ are\ out\ of\ order\r\n\ we\ swap\ them.\r\n
+comment3.params=pList\ pIndex1\ pIndex2
+comment3.target=void\ swap(java.util.ArrayList,\ int,\ int)
+comment3.text=\r\n\ Swaps\ the\ elements\ in\ pList\ at\ pIndex1\ and\ pIndex2.\r\n
+numComments=4

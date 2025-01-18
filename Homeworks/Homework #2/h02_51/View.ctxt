@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=View
+comment0.text=\r\n\ Implements\ the\ GUI\ for\ a\ calculator.\r\n
+comment1.params=
+comment1.target=View()
+comment1.text=\r\n\ Default\ ctor.\ Does\ nothing.\r\n
+comment2.params=pPanel\ pText
+comment2.target=void\ addButton(javax.swing.JPanel,\ java.lang.String)
+comment2.text=\r\n\ Declare\ and\ create\ a\ JButton\ object\ displaying\ pText.\ Make\ this\ JFrame\ the\ action\ listener\r\n\ for\ button\ events.\ Add\ the\ button\ to\ pPanel.\r\n
+comment3.params=pEvent
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\r\n\ Implementation\ of\ the\ actionPerformed()\ method\ of\ the\ ActionListener\ interface.\r\n
+numComments=4

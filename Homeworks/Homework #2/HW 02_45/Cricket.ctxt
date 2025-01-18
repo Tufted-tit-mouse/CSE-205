@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cricket
+comment0.text=\r\n\ Cricket\ is\ a\ specific\ type\ of\ Insect\ so\ Cricket\ inherits\ from\ Insect.\ Insect\r\n\ and\ Cricket\ are\ related\ using\ a\ generalization\ (or\ inheritance)\ relationship.\r\n\ Note\ that\ Insect\ implements\ the\ MakesSound\ interface,\ so\ since\ Cricket\ is\ a\r\n\ subclass\ of\ Insect\ then\ Cricket\ must\ implement\ the\ MakesSound\ interface\ b\r\n\ implementing\ the\ MakesSound.makeSound()\ method.\ (If\ Cricket\ does\ not\ do\ this,\r\n\ then\ Cricket\ also\ becomes\ an\ abstract\ class).\r\n
+comment1.params=
+comment1.target=void\ makeSound()
+comment1.text=\r\n\ Insect\ is\ an\ abstract\ class\ and\ does\ not\ implement\ the\ MakesSound.\r\n\ makeSound()\ method.\ However,\ since\ Cricket\ is\ a\ concrete\ subclass\ of\r\n\ Insect\ then\ Cricket\ must\ implement\ makeSound().\ The\ sound\ Crickets\ make\r\n\ is\ "Chirp"\ (Man\ oh\ man,\ I\ hate\ crickets).\r\n\r\n\ Note\ also\ that\ Cricket\ is\ implementing\ the\ abstract\ makeSound()\ method\r\n\ of\ Insect.\ Therefore,\ to\ prevent\ accidental\ overloading,\ we\ use\ the\r\n\ @Override\ annotation.\r\n
+numComments=2

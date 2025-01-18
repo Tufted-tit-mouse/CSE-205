@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ The\ main\ class\ for\ the\ program.\r\n
+comment1.params=pArgs
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ main()\ instantiates\ an\ object\ of\ this\ Main\ class\ and\ then\ calls\ run()\r\n\ on\ the\ object.\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ run()\ is\ essentiall\ the\ OO\ version\ of\ the\ class/static\ method\ main().\r\n\ We\ create\ an\ ArrayList\ of\ MakesSound,\ i.e.,\ an\ ArrayList\ of\ objects\r\n\ which\ implement\ the\ MakesSound\ interface,\ e.g.,\ Dog\ objects,\ Cat\ objects,\r\n\ and\ Cricket\ objects.\ After\ creating\ the\ list,\ we\ add\ various\ animals\ to\r\n\ it.\ Then\ we\ call\ beNoisy()\ passing\ the\ ArrayList\ as\ the\ argument.\r\n
+comment3.params=pCritters
+comment3.target=void\ beNoisy(java.util.ArrayList)
+comment3.text=\r\n\ beNoisy()\ receives\ the\ ArrayList\ of\ objects\ that\ implement\ the\ MakesSound\r\n\ interface.\ beNoisy()\ uses\ an\ enhanced\ for\ loop\ to\ iterate\ over\ the\r\n\ ArrayList\ and\ calls\ the\ makeSound()\ method\ on\ each\ object.\r\n\r\n\ Because\ various\ classes\ (Dog,\ Cat,\ Cricket)\ all\ implement\ the\ makeSound()\r\n\ method,\ in\ the\ statement\ critter.makeSound()\ we\ are\ polymorphicall\ call-\r\n\ ing\ the\ correct\ makeSound()\ method\ based\ on\ the\ type\ of\ critter.\ For\r\n\ example,\ when\ critter\ is\ a\ Dog,\ we\ will\ call\ Dog.makeSound()\ which\ will\r\n\ print\ "Bark".\ When\ critter\ is\ a\ Cat,\ we\ will\ call\ Cat.makeSound()\ which\r\n\ will\ print\ "Meow".\ And\ when\ critter\ is\ a\ Cricket,\ we\ will\ call\ Cricket.\r\n\ makeSound()\ which\ will\ print\ "Chirp".\ \r\n
+numComments=4

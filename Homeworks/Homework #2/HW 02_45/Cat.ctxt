@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cat
+comment0.text=\r\n\ Cat\ is\ a\ specific\ type\ of\ Mammal\ so\ Cat\ inherits\ from\ Mammal.\ Mammal\ and\ Cat\r\n\ are\ related\ using\ a\ generalization\ (or\ inheritance)\ relationship.\ Note\ that\r\n\ Mammal\ implements\ the\ MakesSound\ interface,\ so\ since\ Cat\ is\ a\ subclass\ of\r\n\ Mammal\ (which\ is\ an\ abstract\ class)\ then\ Cat\ must\ implement\ the\ MakesSound\r\n\ interface\ by\ implementing\ the\ MakesSound.makeSound()\ method.\ (If\ Cat\ does\ not\r\n\ do\ this,\ then\ Cat\ also\ becomes\ an\ abstract\ class).\r\n
+comment1.params=
+comment1.target=void\ makeSound()
+comment1.text=\r\n\ Mammal\ is\ an\ abstract\ class\ and\ does\ not\ implement\ the\ MakesSound.\r\n\ makeSound()\ method.\ However,\ since\ Cat\ is\ a\ concrete\ subclass\ of\ Mammal\r\n\ then\ Cat\ must\ implement\ makeSound().\ The\ sound\ Cats\ make\ is\ "Meow".\r\n\r\n\ Note\ also\ that\ Cat\ is\ overridng\ the\ abstract\ makeSound()\ method\r\n\ of\ Mammal.\ Therefore,\ to\ prevent\ accidental\ overloading,\ we\ use\ the\r\n\ @Override\ annotation.\r\n
+numComments=2

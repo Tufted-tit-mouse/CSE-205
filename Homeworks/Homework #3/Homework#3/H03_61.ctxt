@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=H03_61
+comment0.text=------------H03----------------\r\n\ CLASS\:\ H03_61\ (H03_61.java)\r\n\ GROUP\ 42\r\n\ AUTHOR\ 1\:\ Caleb\ Ewer,\ cewer,\ cewer@asu.edu\r\n\ AUTHOR\ 2\:\ Lorenzo\ Stewart,\ lkstewa2,\ lkstewa2@asu.edu\r\n\ AUTHOR\ 3\:\ Samuel\ Ketcham,\ scketch1,\ scktech1@asu.edu\r\n\ AUTHOR\ 4\:\ Miranda\ Coston,\ mcoston,\ mcoston@asu.edu\r\n
+comment1.params=
+comment1.target=H03_61()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ H03_61\r\n
+comment2.params=y
+comment2.target=int\ sampleMethod(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=3

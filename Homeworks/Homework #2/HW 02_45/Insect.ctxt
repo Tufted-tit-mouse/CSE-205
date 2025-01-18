@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Insect
+comment0.text=\r\n\ The\ abstract\ superclass\ for\ all\ types\ of\ Insects.\ Note\ that\ Insect\ does\ not\r\n\ implement\ MakesSound.makeSound()\ because\ it\ does\ not\ have\ to\ since\ Insect\r\n\ is\ abstract.\ Abstract\ classes\ do\ not\ have\ to\ implement\ any\ of\ the\ methods\ of\r\n\ the\ class.\r\n
+numComments=1
